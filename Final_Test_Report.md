@@ -210,6 +210,8 @@ pie
 |P1	|Hint system, Input validation	|85%	|30% of total time	|Integration tests + Edge cases|
 |P2	|UI rendering, Animations	|60%	|20% of total time	|Snapshot tests + Visual regression|
 |P3	|Browser-specific CSS	|50%	|10% of total time	|Manual spot checks|
+
+I had a nice time
 ```
 
 ### 5.2 Coverage vs Time Trade-offs  
