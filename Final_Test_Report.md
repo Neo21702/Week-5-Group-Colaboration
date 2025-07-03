@@ -246,7 +246,27 @@ pie
 ```
 My Personal Reflections
 
+-During the testing phase, we utilized various tools and methods to ensure a comprehensive evaluation of the application. The clear objectives provided structured guidance on what and where to test, which made the process more focused and efficient.
 
+Testing Tools and Methods
+
+-I conducted automated testing using Jest, which provided valuable coverage metrics and helped assess the robustness of our code through unit tests.
+
+-Lusanda performed manual testing on Chrome, focusing on user interactions and ensuring the UI responded as expected.
+
+-Nompie utilized Chrome DevTools for deeper debugging and analysis, identifying subtle issues that weren’t obvious through other methods.
+
+Collaboration and Findings
+-We worked together to discuss and compare findings from each testing method. This collaboration helped us identify overlapping issues and tool-specific insights. Jest’s coverage reports and Chrome DevTools were especially useful in highlighting areas that required attention.
+
+Scope of Testing
+
+In-scope: We focused on validating the developer’s specified requirements, including core game logic, scoring, hints, and input validation.
+
+Out-of-scope: We explored additional areas beyond the initial requirements to identify edge cases and potential future improvements.
+
+Functional Verification
+-The application was tested on Chrome to verify that the core functionality and user experience worked correctly, ensuring users would have a smooth and reliable experience with the game.
 ---
 
 ## 📌 **6. Final Metrics**  
