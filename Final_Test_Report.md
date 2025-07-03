@@ -211,7 +211,6 @@ pie
 |P2	|UI rendering, Animations	|60%	|20% of total time	|Snapshot tests + Visual regression|
 |P3	|Browser-specific CSS	|50%	|10% of total time	|Manual spot checks|
 
-I had a nice time
 ```
 
 ### 5.2 Coverage vs Time Trade-offs  
@@ -245,6 +244,8 @@ I had a nice time
 | **State Management** | Track score/hint state changes              | Verify score ≥ 0 after hints              |
 
 ```
+My Personal Reflections
+
 
 ---
 
