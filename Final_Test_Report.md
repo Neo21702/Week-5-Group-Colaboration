@@ -246,7 +246,7 @@ pie
 ```
 MY PERSONAL REFLECTIONS
 
--During the testing phase, we utilized various tools and methods to ensure a comprehensive evaluation of the application. The clear objectives provided structured guidance on what and where to test, which made the process more focused and efficient.
+-Throughout the testing phase, we applied a range of tools and techniques to thoroughly assess the application. The well-defined objectives helped us stay focused on specific areas to test, ensuring the process remained organized and effective.
 
 TESTING TOOLS AND METHODS
 
